@@ -1,15 +1,16 @@
-package com.quickpoll;
+package com.quickpoll.entity;
 
 import javax.persistence.*;
 
 /**
  * Created by brianmullin on 7/8/17.
  */
+@Entity
 public class Vote {
 
     @Id
     @GeneratedValue
-    @Column(name="VOTE_Id")
+    @Column(name="VOTE_ID")
     private Long Id;
 
     @ManyToOne

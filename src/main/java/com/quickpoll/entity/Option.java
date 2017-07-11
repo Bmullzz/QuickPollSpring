@@ -1,4 +1,4 @@
-package com.quickpoll;
+package com.quickpoll.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

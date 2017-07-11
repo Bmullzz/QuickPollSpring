@@ -1,6 +1,6 @@
-package quickpoll.repository;
+package com.quickpoll.repository;
 
-import com.quickpoll.Poll;
+import com.quickpoll.entity.Poll;
 import org.springframework.data.repository.CrudRepository;
 
 /**
