@@ -1,4 +1,4 @@
-package com.quickpoll;
+package com.quickpoll.entity;
 
 import javax.persistence.*;
 import java.util.Set;
@@ -6,6 +6,7 @@ import java.util.Set;
 /**
  * Created by brianmullin on 7/8/17.
  */
+@Entity
 public class Poll {
 
     @Id
