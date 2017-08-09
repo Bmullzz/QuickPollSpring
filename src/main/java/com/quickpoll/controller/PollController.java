@@ -61,6 +61,9 @@ public class PollController {
 
 
     //brian mullin
+<<<<<<< HEAD
 
     //git author check
+=======
+>>>>>>> dde12da... updated
 }
