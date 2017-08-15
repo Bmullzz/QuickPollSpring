@@ -62,8 +62,13 @@ public class PollController {
 
     //brian mullin
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     //git author check
 =======
 >>>>>>> dde12da... updated
+=======
+
+    //git author check
+>>>>>>> e4c9bdde3870c5c2c6ba8157bed58f14df27a07b
 }
